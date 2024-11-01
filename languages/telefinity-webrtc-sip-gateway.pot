@@ -1,0 +1,63 @@
+# Copyright (C) 2021 TeleFinity
+# This file is distributed under the same license as the TeleFinity WebRTC-SIP Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: TeleFinity WebRTC-SIP Gateway 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/telefinity-webrtc-sip-gateway\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-18T01:41:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: telefinity-webrtc-sip-gateway\n"
+
+#. Plugin Name of the plugin
+msgid "TeleFinity WebRTC-SIP Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.tele-finity.com/webrtcsip/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Turns your website into a phone and let your abroad customers connect to your PBX /Call Center directly at zero-cost and without a telecom operator. Try it on https://www.tele-finity.com/webrtcsip/."
+msgstr ""
+
+#. Author of the plugin
+msgid "TeleFinity"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.tele-finity.com/"
+msgstr ""
+
+#: admin/class-telefinity-webrtc-sip-gateway-admin.php:59
+msgctxt "register setting description"
+msgid "TeleFinity WebRTC to SIP Gateway Token"
+msgstr ""
+
+#: admin/class-telefinity-webrtc-sip-gateway-admin.php:67
+msgid "Configuration"
+msgstr ""
+
+#: admin/class-telefinity-webrtc-sip-gateway-admin.php:68
+msgctxt "Setting field title"
+msgid "WebRTC-SIP Gateway Token"
+msgstr ""
+
+#: admin/class-telefinity-webrtc-sip-gateway-admin.php:78
+msgctxt "Page Title"
+msgid "TeleFinity WebRTC-SIP Gateway"
+msgstr ""
+
+#: admin/class-telefinity-webrtc-sip-gateway-admin.php:78
+msgctxt "Menu Title"
+msgid "TeleFinity WebRTC-SIP Gateway"
+msgstr ""
+
+#: admin/partials/settings/section-default.php:17
+msgid "Please get the TeleFinity WebRTC-SIP Gateway token from %1$sTeleFinity WebRTC-SIP Gateway%2$s and fill it in the below text box."
+msgstr ""
